@@ -1,8 +1,8 @@
 # dugleidys.github.com
 
-Design for the Web | Fall 2015
 
 Projects
+
 *[Phillies vs Red Sox](http://Dugleidys.github.com/phillies "Phillies vs Red Sox")
 
 *[Resume](http://Dugleidys.github.com/resume "resume")
